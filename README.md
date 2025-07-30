@@ -1,5 +1,3 @@
-
-
 # 📊 eCommerce DataSet Analysis & Visualization (2025)
 
 ## 📝 Project Overview  
@@ -8,7 +6,8 @@ This project presents a detailed analysis of eCommerce data for the year 2025 us
 ---
 
 ## 🖼️ Dashboard Screenshot  
-![eCommerce Dashboard](sandbox:/zd1EKfbN1CA8DNx4EimF1.png)
+<img width="1521" height="882" alt="e-Commerce" src="https://github.com/user-attachments/assets/b4528be3-183f-4584-ae4c-07589220a842" />
+
 
 ---
 
@@ -81,10 +80,9 @@ This project presents a detailed analysis of eCommerce data for the year 2025 us
 - Add predictive analytics using Python  
 - Expand analysis to multi-year trends and customer segmentation
 
----
 
 ## 📫 Connect with Me
 
  
 - 📧 Email: khushimisar@gmail.com  
-- 
+
