@@ -1,67 +1,51 @@
-# 📊 eCommerce DataSet Analysis & Visualization (2025)
+# 📊 eCommerce Store Dashboard
 
 ## 📝 Project Overview  
-This project presents a detailed analysis of eCommerce data for the year 2025 using Excel. It explores customer behavior, sales performance, delivery efficiency, and platform trends. The dashboard is designed to help businesses uncover actionable insights through intuitive visualizations and interactive filters.
+This project showcases a dynamic Excel dashboard analyzing the performance of an eCommerce store. It provides insights into customer demographics, order trends, product categories, and sales channels. The dashboard is designed to support data-driven decisions through clear visual storytelling.
 
 ---
 
 ## 🖼️ Dashboard Screenshot  
-<img width="1521" height="882" alt="e-Commerce" src="https://github.com/user-attachments/assets/b4528be3-183f-4584-ae4c-07589220a842" />
+<img width="1334" height="727" alt="ecommerceStore Dashboard" src="https://github.com/user-attachments/assets/90a95b93-6920-4928-bd15-0d11334b9c3e" />
 
 
 ---
 
-## 📌 Key Insights from the Dashboard
+## 📌 Key Visualizations & Insights
 
-- **📅 Monthly Orders vs Sales**  
-  - February shows the highest sales (₹2600)  
-  - April has the highest order count (1.6M)
+- **📅 Amount Order by Month**  
+  Bar chart showing total sales and order volume from March to July.
 
-- **🧍‍♀️ Gender-Based Shopping**  
-  - Women account for **64%** of purchases
+- **🧍‍♀️ Age Group vs Gender (Pie & Bar Charts)**  
+  - Women: 64.05%  
+  - Men: 35.95%  
+  - Adults dominate order volume, followed by seniors and teenagers.
 
-- **🌍 Top 5 States by Sales**  
-  - Tamil Nadu: ₹4,000,000  
-  - Telangana: ₹3,000,000  
-  - Uttar Pradesh: ₹2,000,000  
-  - Karnataka: ₹1,000,000  
-  - Maharashtra: ₹500,000
+- **🚚 Order Status Distribution**  
+  Breakdown of Delivered, Returned, Cancelled, and Refunded orders.
 
-- **🚚 Order Delivery Status**  
-  - Delivered: **92.25%**  
-  - Other statuses: 1.67%, 3.27%, 2.82%
+- **📦 Top 5 Product Categories**  
+  Set, Kurta, Western Dress, Top, and Saree lead in sales.
 
-- **👥 Sales by Age Group & Gender**  
-  - Adults: Male (₹8000), Female (₹18,000)  
-  - Seniors: Male (₹2000), Female (₹4000)  
-  - Teenagers: Male (₹500), Female (₹1000)
+- **🌍 Top 5 States & Cities by Sales**  
+  - States: Hyderabad, Kolkata, Lucknow, Noida  
+  - Cities: Zirakpur, Zarugumilli, Zaidpur, Zamania
 
-- **🛒 Channel Sales Distribution**  
-  - Myntra: 35.48%  
-  - Nalli: 25.10%  
-  - Meesho: 23.36%  
-  - Flipkart: 6.22%  
-  - Ajio: 4.78%  
-  - Amazon: 4.06%
-
-- **🏙️ Top 5 Cities by Sales**  
-  - City 1: ₹2,000,000  
-  - City 2: ₹1,500,000  
-  - City 3: ₹1,000,000  
-  - City 4: ₹500,000  
-  - City 5: ₹250,000
+- **🛒 Channel Analysis**  
+  Sales distribution across platforms like Amazon, Flipkart, Meesho, Myntra, Ajio, Nalli, and Others.  
+  - Amazon leads with 100% share in the sample.
 
 - **🏢 B2B vs B2C Sales**  
-  - B2B: 0.60%  
-  - B2C: 99.40%
+  - B2C: 99.4%  
+  - B2B: 0.6%
 
 ---
 
 ## 🎯 Filters Included
 
-- Product Categories: Saree, Kurta, Ethnic Dress, Blouse, Bottom, Set  
-- Sales Channels: Amazon, Flipkart, Meesho, Myntra, Ajio, Nalli  
-- Time Period: April to March
+- **Product Categories**: Blouse, Bottom, Ethnic Wear, Kurta, Saree, Set, Top, Western Dress  
+- **Sales Channels**: Ajio, Amazon, Flipkart, Meesho, Myntra, Nalli, Others  
+- **Months**: March to July
 
 ---
 
@@ -69,20 +53,32 @@ This project presents a detailed analysis of eCommerce data for the year 2025 us
 
 - **Excel**: Pivot tables, slicers, charts, and dashboard design  
 - **Power Query**: Data cleaning and transformation  
-- **Visualization Techniques**: Pie charts, bar graphs, line charts, and interactive filters
+- **Visualization Techniques**: Pie charts, bar graphs, and interactive filters
 
 ---
 
+## 📁 Repository Structure
+
+```
+📂 eCommerce-Store-Dashboard/
+├── 📄 README.md
+├── 📊 Dashboard Screenshot
+├── 📈 Excel Workbook (.xlsx)
+└── 📚 Data Source & Notes
+```
+
+---
 
 ## 🚀 Future Enhancements
 
 - Recreate dashboard in Power BI for enhanced interactivity  
-- Add predictive analytics using Python  
-- Expand analysis to multi-year trends and customer segmentation
+- Add Python-based predictive analytics  
+- Expand analysis to include customer segmentation and lifetime value
 
+---
 
 ## 📫 Connect with Me
 
  
-- 📧 Email: khushimisar@gmail.com  
+- 📧 Email: khushimisar@gmail.com 
 
