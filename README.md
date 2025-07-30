@@ -55,19 +55,6 @@ This project showcases a dynamic Excel dashboard analyzing the performance of an
 - **Power Query**: Data cleaning and transformation  
 - **Visualization Techniques**: Pie charts, bar graphs, and interactive filters
 
----
-
-## 📁 Repository Structure
-
-```
-📂 eCommerce-Store-Dashboard/
-├── 📄 README.md
-├── 📊 Dashboard Screenshot
-├── 📈 Excel Workbook (.xlsx)
-└── 📚 Data Source & Notes
-```
-
----
 
 ## 🚀 Future Enhancements
 
